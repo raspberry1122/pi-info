@@ -14,4 +14,4 @@
 
 和风天气API：
 
-https://www.heweather.com/documents/api/v5/weather
+https://www.heweather.com/documents/api/s6/weather-all
